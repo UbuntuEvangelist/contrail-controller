@@ -25,3 +25,5 @@ vnc_cfg_api_server
 discoveryclient
 sandesh
 sandesh-common
+
+thrift>=0.10.0 # not directly required, pinned by Snyk to avoid a vulnerability
