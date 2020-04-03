@@ -10,3 +10,5 @@ kombu
 netifaces
 bottle
 stevedore
+
+thrift>=0.10.0 # not directly required, pinned by Snyk to avoid a vulnerability
