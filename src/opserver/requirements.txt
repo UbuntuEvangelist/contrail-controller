@@ -9,3 +9,5 @@ prettytable
 psutil>=0.6.0
 bottle
 sseclient
+
+thrift>=0.10.0 # not directly required, pinned by Snyk to avoid a vulnerability
