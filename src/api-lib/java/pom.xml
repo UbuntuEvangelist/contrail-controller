@@ -27,7 +27,7 @@
     <dependency>
       <groupId>com.google.guava</groupId>
       <artifactId>guava</artifactId>
-      <version>14.0</version>
+      <version>r03</version>
     </dependency>
     <dependency>
       <groupId>com.google.code.gson</groupId>
@@ -159,7 +159,7 @@
     								</goals>
     							</pluginExecutionFilter>
     							<action>
-    								<ignore></ignore>
+    								<ignore/>
     							</action>
     						</pluginExecution>
     					</pluginExecutions>
