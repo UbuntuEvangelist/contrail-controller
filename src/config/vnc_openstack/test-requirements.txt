@@ -6,7 +6,7 @@ webtest
 pyaml
 python-keystoneclient
 lxml>=2.3.3
-gevent==1.1a2
+gevent==1.2a1
 geventhttpclient==1.0a
 pycassa>=1.7.2
 netaddr>=0.7.5
@@ -25,3 +25,4 @@ vnc_cfg_api_server
 discoveryclient
 sandesh
 sandesh-common
+thrift>=0.13.0 # not directly required, pinned by Snyk to avoid a vulnerability
